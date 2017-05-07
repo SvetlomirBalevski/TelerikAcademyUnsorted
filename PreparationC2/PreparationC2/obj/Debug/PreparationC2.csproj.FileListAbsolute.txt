@@ -1,0 +1,2 @@
+D:\Telerik\PreparationC2\PreparationC2\bin\Debug\PreparationC2.exe.config
+D:\Telerik\PreparationC2\PreparationC2\obj\Debug\PreparationC2.csprojResolveAssemblyReference.cache

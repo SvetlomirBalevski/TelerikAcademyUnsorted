@@ -1,0 +1,5 @@
+D:\Telerik\HW_Num_as_array\IntCalc\bin\Debug\IntCalc.exe.config
+D:\Telerik\HW_Num_as_array\IntCalc\bin\Debug\IntCalc.exe
+D:\Telerik\HW_Num_as_array\IntCalc\bin\Debug\IntCalc.pdb
+D:\Telerik\HW_Num_as_array\IntCalc\obj\Debug\IntCalc.exe
+D:\Telerik\HW_Num_as_array\IntCalc\obj\Debug\IntCalc.pdb

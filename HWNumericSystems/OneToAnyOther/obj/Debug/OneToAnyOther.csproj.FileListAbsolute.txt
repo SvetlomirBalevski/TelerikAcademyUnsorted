@@ -1,0 +1,9 @@
+D:\Telerik\HWNumericSystems\OneToAnyOther\bin\Debug\OneToAnyOther.exe.config
+D:\Telerik\HWNumericSystems\OneToAnyOther\bin\Debug\OneToAnyOther.exe
+D:\Telerik\HWNumericSystems\OneToAnyOther\bin\Debug\OneToAnyOther.pdb
+D:\Telerik\HWNumericSystems\OneToAnyOther\obj\Debug\OneToAnyOther.csprojResolveAssemblyReference.cache
+D:\Telerik\HWNumericSystems\OneToAnyOther\obj\Debug\OneToAnyOther.exe
+D:\Telerik\HWNumericSystems\OneToAnyOther\obj\Debug\OneToAnyOther.pdb
+C:\Users\DesertFox\Desktop\Telerik\HWNumericSystems\OneToAnyOther\bin\Debug\OneToAnyOther.exe.config
+C:\Users\DesertFox\Desktop\Telerik\HWNumericSystems\OneToAnyOther\obj\Debug\OneToAnyOther.exe
+C:\Users\DesertFox\Desktop\Telerik\HWNumericSystems\OneToAnyOther\obj\Debug\OneToAnyOther.pdb

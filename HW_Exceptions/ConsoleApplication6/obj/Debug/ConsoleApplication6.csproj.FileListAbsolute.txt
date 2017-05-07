@@ -1,0 +1,6 @@
+D:\Telerik\HW_Exceptions\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Telerik\HW_Exceptions\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Telerik\HW_Exceptions\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Telerik\HW_Exceptions\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+D:\Telerik\HW_Exceptions\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Telerik\HW_Exceptions\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\homeworkArray2\SeqInMa3xSecond\bin\Debug\SeqInMa3xSecond.exe.config
+D:\Telerik\homeworkArray2\SeqInMa3xSecond\bin\Debug\SeqInMa3xSecond.exe
+D:\Telerik\homeworkArray2\SeqInMa3xSecond\bin\Debug\SeqInMa3xSecond.pdb
+D:\Telerik\homeworkArray2\SeqInMa3xSecond\obj\Debug\SeqInMa3xSecond.exe
+D:\Telerik\homeworkArray2\SeqInMa3xSecond\obj\Debug\SeqInMa3xSecond.pdb

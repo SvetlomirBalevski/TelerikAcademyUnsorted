@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    font-family: calibri;
+    font-size: 16px;
+    border-bottom: 1px solid #bfbfbf;
+}
+td, th {
+    border-left: 1px solid #bfbfbf;
+    padding: 5px;
+}
+th {
+    background: #55B806;
+    color: beige;
+    font-weight: normal;
+    text-align: left;
+}
+.grey {
+    background: #ECECD7;
+}
+.width {
+  width: 30%;
+}
+#width {
+  width: 22%;
+}
+img {
+  vertical-align: middle;
+  width: 27px;
+}

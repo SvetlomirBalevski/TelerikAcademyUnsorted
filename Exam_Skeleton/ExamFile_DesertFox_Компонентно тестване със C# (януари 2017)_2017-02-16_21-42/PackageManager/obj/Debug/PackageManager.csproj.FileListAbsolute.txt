@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager\bin\Debug\PackageManager.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager\bin\Debug\PackageManager.pdb
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager\obj\Debug\PackageManager.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager\obj\Debug\PackageManager.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager\obj\Debug\PackageManager.pdb

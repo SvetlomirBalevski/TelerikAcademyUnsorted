@@ -1,0 +1,82 @@
+﻿body,
+html,
+div,
+ul,
+li,
+img,
+a,
+span {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: url(task-images/initial.png);
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+#wrapper {
+    width: 960px;
+    padding: 15px;
+}
+
+#wrapper>div {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#wrapper>div .holder {
+    float: left;
+}
+
+#wrapper>div .holder img {
+    width: 100%;
+    width: 550px;
+    border-radius: 5px;
+}
+
+#wrapper>div .playlist {
+    float: left;
+}
+
+#wrapper>div::after {
+    display: block;
+    content: "";
+}
+
+#wrapper>div .playlist ul {
+    padding: 0px 10px;
+}
+
+#wrapper>div .playlist ul li {
+    width: 120px;
+    height: 101px;
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+    box-sizing: border-box;
+}
+
+#wrapper>div .playlist ul li a {
+    display: block;
+}
+
+#wrapper>div .playlist ul li a img {
+    margin: 0px 15px;
+    border-radius: 7px;
+    display: block;
+}
+
+#wrapper>div .playlist ul li a span {
+    margin: 0px 9px;
+    font-weight: bold;
+}

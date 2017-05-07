@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    padding: 5px;
+    background-color: #D9E4F1;
+    border-radius: 10px;
+}
+
+#button {
+    width: 2px;
+}
+
+#second-title {
+    align-items: flex-start;
+    flex-direction: column;
+}

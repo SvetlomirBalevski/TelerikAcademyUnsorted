@@ -1,0 +1,6 @@
+D:\Telerik\examPrep\AdvLoverOf3\bin\Debug\AdvLoverOf3.exe.config
+D:\Telerik\examPrep\AdvLoverOf3\bin\Debug\AdvLoverOf3.exe
+D:\Telerik\examPrep\AdvLoverOf3\bin\Debug\AdvLoverOf3.pdb
+D:\Telerik\examPrep\AdvLoverOf3\obj\Debug\AdvLoverOf3.csprojResolveAssemblyReference.cache
+D:\Telerik\examPrep\AdvLoverOf3\obj\Debug\AdvLoverOf3.exe
+D:\Telerik\examPrep\AdvLoverOf3\obj\Debug\AdvLoverOf3.pdb

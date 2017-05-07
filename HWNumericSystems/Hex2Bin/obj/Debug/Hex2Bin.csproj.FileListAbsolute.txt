@@ -1,0 +1,6 @@
+D:\Telerik\HWNumericSystems\Hex2Bin\bin\Debug\Hex2Bin.exe.config
+D:\Telerik\HWNumericSystems\Hex2Bin\bin\Debug\Hex2Bin.exe
+D:\Telerik\HWNumericSystems\Hex2Bin\bin\Debug\Hex2Bin.pdb
+D:\Telerik\HWNumericSystems\Hex2Bin\obj\Debug\Hex2Bin.exe
+D:\Telerik\HWNumericSystems\Hex2Bin\obj\Debug\Hex2Bin.pdb
+D:\Telerik\HWNumericSystems\Hex2Bin\obj\Debug\Hex2Bin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: edwardian-script;
+    src: url(../Fonts/EdwardianScriptITC.ttf);
+}
+
+body {
+    font-family: Consolas, sans-serif;
+    color: #0094ff;
+    font-size: 15px;
+}
+
+p {
+    font-weight: 400;
+}
+
+p::first-line {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+p::first-letter {
+    font-family: edwardian-script, sans-serif;
+    font-size: 3em;
+    vertical-align: bottom;
+}

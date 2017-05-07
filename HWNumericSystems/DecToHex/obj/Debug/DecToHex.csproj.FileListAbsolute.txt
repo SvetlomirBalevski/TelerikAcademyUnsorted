@@ -1,0 +1,6 @@
+D:\Telerik\HWNumericSystems\DecToHex\bin\Debug\DecToHex.exe.config
+D:\Telerik\HWNumericSystems\DecToHex\bin\Debug\DecToHex.exe
+D:\Telerik\HWNumericSystems\DecToHex\bin\Debug\DecToHex.pdb
+D:\Telerik\HWNumericSystems\DecToHex\obj\Debug\DecToHex.csprojResolveAssemblyReference.cache
+D:\Telerik\HWNumericSystems\DecToHex\obj\Debug\DecToHex.exe
+D:\Telerik\HWNumericSystems\DecToHex\obj\Debug\DecToHex.pdb

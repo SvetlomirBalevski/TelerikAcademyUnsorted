@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddPolynoms", "AddPolynoms\AddPolynoms.csproj", "{BD491F7A-AA7F-4B53-8478-42D2B2072130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbAsArray", "NumbAsArray\NumbAsArray.csproj", "{2557A815-AA84-423B-8991-22F6C9949232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewNumbAsArray", "NewNumbAsArray\NewNumbAsArray.csproj", "{C2218D23-976C-4D7F-996B-EEF0DCDA323D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD491F7A-AA7F-4B53-8478-42D2B2072130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD491F7A-AA7F-4B53-8478-42D2B2072130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD491F7A-AA7F-4B53-8478-42D2B2072130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD491F7A-AA7F-4B53-8478-42D2B2072130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2557A815-AA84-423B-8991-22F6C9949232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2557A815-AA84-423B-8991-22F6C9949232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2557A815-AA84-423B-8991-22F6C9949232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2557A815-AA84-423B-8991-22F6C9949232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2218D23-976C-4D7F-996B-EEF0DCDA323D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2218D23-976C-4D7F-996B-EEF0DCDA323D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2218D23-976C-4D7F-996B-EEF0DCDA323D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2218D23-976C-4D7F-996B-EEF0DCDA323D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

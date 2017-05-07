@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body
+ {  background-color: rgb(89, 89, 89);
+ }
+
+ table
+ {
+    margin: 0%;
+    padding: 0%;
+    background: #808080;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+img
+{
+    height: 4%;
+    float: left;
+    text-indent: 1px;
+    
+}
+th
+ {
+     color: #ccc;
+     font-size: 100%;
+ }
+ td
+ {
+     color: #fff;
+     font-size: 80%;
+ }
+ .italic
+ {
+     font-style: italic;
+ }
+ .name
+{
+     color: #fafad2;
+}
+.active-message{
+    color: #ff0000;
+}
+.email{
+    color:#fafad2;
+}
+.time{
+    color: #ccc;
+}
+.lock{
+    color: #ccc;
+}
+.post{
+    color:#fafad2;
+}
+.status{
+    color:#ffA500;
+}
+
+ 

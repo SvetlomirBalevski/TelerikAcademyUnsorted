@@ -1,0 +1,7 @@
+D:\Telerik\HWNumericSystems\Bin2Hex\bin\Debug\Bin2Hex.exe.config
+D:\Telerik\HWNumericSystems\Bin2Hex\bin\Debug\Bin2Hex.exe
+D:\Telerik\HWNumericSystems\Bin2Hex\bin\Debug\Bin2Hex.pdb
+D:\Telerik\HWNumericSystems\Bin2Hex\obj\Debug\Bin2Hex.exe
+D:\Telerik\HWNumericSystems\Bin2Hex\obj\Debug\Bin2Hex.pdb
+D:\Telerik\HWNumericSystems\Bin2Hex\obj\Debug\Bin2Hex.csprojResolveAssemblyReference.cache
+D:\Telerik\HWNumericSystems\Bin2Hex\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

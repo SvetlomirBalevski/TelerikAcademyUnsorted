@@ -1,0 +1,87 @@
+        body,
+        html,
+        div,
+        ul,
+        li,
+        img,
+        a,
+        span,
+        h2,
+        h3,
+        h1 {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-size: 16px;
+        }
+        
+        #wrapper {
+            width: 960px;
+            padding: 20px 22px;
+        }
+        
+        #wrapper>div {
+            border: 2px solid gray;
+            width: 138px;
+            margin-left: -2px;
+            float: left;
+            height: 250px;
+            margin-left: -2px;
+            padding: 5px;
+        }
+        
+        #wrapper>div hgroup {
+            padding: 0px 0px 0px 38px
+        }
+        
+        #wrapper>div:nth-child(1) hgroup {
+            background-image: url('imgs/install.png');
+            background-repeat: no-repeat;
+            background-position: -1px 7px;
+        }
+        
+        #wrapper>div:nth-child(2) hgroup {
+            background-image: url('imgs/tuneUp.png');
+            background-repeat: no-repeat;
+            background-position: -1px 7px;
+        }
+        
+        #wrapper>div:nth-child(4) hgroup {
+            background-image: url('imgs/twitter.png');
+            background-repeat: no-repeat;
+            background-position: -1px 7px;
+        }
+        
+        .yellowBox {
+            border: 0.5px solid #FFFF00;
+        }
+        
+        #wrapper>div>p {
+            margin-top: 12px;
+        }
+        
+        #wrapper>div hgroup h2 {
+            padding-top: 6px;
+            font-size: 1.06rem;
+        }
+        
+        #wrapper>div hgroup h3 {
+            padding-top: 6px;
+            font-size: 1.06rem;
+        }
+        
+        #wrapper>div:nth-child(2n) {
+            height: 270px;
+        }
+        
+        #wrapper a:not(.yellowBox) {
+            color: red;
+            text-decoration: none;
+            display: block;
+        }
+        
+        #wrapper a span {
+            text-transform: uppercase;
+        }

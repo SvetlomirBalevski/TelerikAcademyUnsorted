@@ -1,0 +1,13 @@
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\MoqTests.dll
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\MoqTests.pdb
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\Academy.exe
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\Castle.Core.dll
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\Moq.dll
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\nunit.framework.dll
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\Academy.pdb
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\Castle.Core.xml
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\Moq.xml
+C:\Users\DesertFox\Desktop\Academy\MoqTests\bin\Debug\nunit.framework.xml
+C:\Users\DesertFox\Desktop\Academy\MoqTests\obj\Debug\MoqTests.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Desktop\Academy\MoqTests\obj\Debug\MoqTests.dll
+C:\Users\DesertFox\Desktop\Academy\MoqTests\obj\Debug\MoqTests.pdb

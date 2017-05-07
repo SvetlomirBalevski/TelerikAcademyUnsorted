@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    padding: 5px;
+    background-color: #D9E4F1;
+    border-radius: 10px;
+}
+
+td {
+    border: 1px solid #BBC6D5;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+
+p {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+p::first-letter
+{
+    text-decoration: underline;
+}
+#calc-output
+{
+    width: 500px;
+    height: 50px;
+    text-align: right;
+    background-color: #E6EFFA;
+    border: 1px solid #BBC6D5 ;
+    font-size: 120%;
+    background: -moz-linear-gradient(top, #e5eefb 1%, #feffff 100%);
+    background: -webkit-linear-gradient(top, #e5eefb 1%, #feffff 100%);
+    background: linear-gradient(to bottom, #e5eefb 1%, #feffff 100%);
+}
+
+#bits{
+     border: 1px solid #BBC6D5 ;
+     
+}
+#second-title {
+    flex-direction: left;    
+    background: #D9DFF0;
+    padding-bottom: 0px;
+    border-color: transparent;
+}
+
+#second-title p
+{
+    padding-left: 6px;
+
+}
+#icon
+{
+    width: 20px;
+}
+#closing
+ {
+    width: 100px;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -11px;
+}
+#calc-title
+{
+    font-size: 20px;
+    border-color: #BCDCFB;    
+    border-radius: 5px;
+
+}
+
+.grey-bits
+{
+    color: grey;
+}
+
+
+.normal-buttons
+{
+   width: 35px;
+    height: 35px;
+    margin: 5px;
+    background-color: #D6E1EF;
+    border: 1px solid #BBC6D5;
+    color:black;
+    border-radius: 2px;
+}
+#double-button-two
+{
+       width: 85px;       
+    height: 35px;
+    margin: 5px;
+ background: linear-gradient(to bottom, #f9fdff 0%, #e0e9f2 50%, #f9fdff 100%);
+    border: 1px solid #BBC6D5;
+    color: #4382B1;
+    border-radius: 1px;
+}
+#double-button-one
+{
+    width: 35px;       
+    height: 80px;
+    margin: 5px;
+    background: linear-gradient(to bottom, #f9fdff 0%, #e0e9f2 50%, #f9fdff 100%);
+    
+    border: 1px solid #BBC6D5;
+    display: inline-block;
+    position: absolute;
+    color: #4382B1;
+    border-radius: 1px;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+.active-button
+{
+background-color: #FBD37C;
+width: 35px;
+    height: 35px;
+    margin: 5px;
+    border: 1px solid #BBC6D5;
+    color:black;
+    border-radius: 2px;
+}
+.other-active-buttons {
+    background: #f9fdff;
+    background: -moz-linear-gradient(top, #f9fdff 0%, #e0e9f2 50%, #f9fdff 100%);
+    background: -webkit-linear-gradient(top, #f9fdff 0%, #e0e9f2 50%, #f9fdff 100%);
+    background: linear-gradient(to bottom, #f9fdff 0%, #e0e9f2 50%, #f9fdff 100%);
+}
+.radio-buttons
+{
+    padding: 10px;
+    font-size: 90%;
+    border-radius: 2px;
+}
+.radio-buttons div
+{
+    padding-bottom: 7px;
+}

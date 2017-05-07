@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Calculator</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+   
+    <main>
+        <table>
+            <tr>
+                <td id="calc-title" colspan="2">
+                    <img id="icon" src="images\icon.png" /> Calculator
+                    <img id="closing" src="images\buttons.png" />
+                </td>
+            </tr>
+            <tr>
+                <td id="second-title" colspan="2">
+                    <p>View</p>
+                    <p>Edit</p>
+                    <p>Help</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                   <input id="calc-output" type="text" value="8854455" />
+                </td>
+            </tr>
+            <tr>
+                <td id="bits" colspan="2">
+                    <div>
+                        0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 0000
+                    </div>
+                    <div class="grey-bits">
+                        63 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;47 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 32
+                    </div>
+                    <div>
+                        0000 &nbsp; &nbsp; &nbsp; 0000 &nbsp; &nbsp; &nbsp; 1000 &nbsp; &nbsp; &nbsp; 0111 &nbsp; &nbsp; &nbsp; 0001 &nbsp; &nbsp; &nbsp; 1011 &nbsp; &nbsp; &nbsp; 1011 &nbsp; &nbsp; &nbsp; &nbsp;0111
+                    </div>
+                    <div class="grey-bits">
+                        31 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="radio-buttons">
+                    <div>
+                        <input type="radio" name="numerals" /> Hex
+                    </div>
+                    <div>
+                        <input type="radio" name="numerals" /> Dec
+                    </div>
+                    <div>
+                        <input type="radio" name="numerals" /> Oct
+                    </div>
+                    <div>
+                        <input type="radio" name="numerals" /> Bin
+                    </div>
+                </td>
+                <td rowspan="2">
+                    <div class="buttons">
+                        <input class="normal-buttons" type="button" disabled value=" " />
+                        <input class="normal-buttons other-active-buttons" type="button" value="Mod" />
+                        <input class="normal-buttons" type="button" disabled value="A" />
+                        <input class="normal-buttons" type="button" value="MC" />
+                        <input class="normal-buttons" type="button" value="MR" />
+                        <input class="normal-buttons" type="button" value="MS" />
+                        <input class="normal-buttons" type="button" value="M+" />
+                        <input class="normal-buttons" type="button" value="M-" />
+                    </div>
+                    <div class="buttons">
+                        <input class="normal-buttons other-active-buttons" type="button" value="(" />
+                        <input class="normal-buttons other-active-buttons" type="button" value=")" />
+                        <input class="normal-buttons" type="button" disabled value="B" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="<-" />
+                        <input class="active-button" type="button" value="CE" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="C" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="&plusmn" />
+                        <input class="normal-buttons" type="button" disabled value="V" />
+                    </div>
+                    <div class="buttons">
+                        <input class="normal-buttons other-active-buttons" type="button" value="RoL" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="RoR" />
+                        <input class="normal-buttons" type="button" disabled value="C" />
+                        <input class="normal-buttons active-buttons" type="button" value="7" />
+                        <input class="normal-buttons active-buttons" type="button" value="8" />
+                        <input class="normal-buttons active-buttons" type="button" value="9" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="/" />
+                        <input class="normal-buttons" type="button" disabled value="%" />
+                    </div>
+                    <div class="buttons">
+                        <input class="normal-buttons other-active-buttons" type="button" value="Or" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="Xor" />
+                        <input class="normal-buttons" type="button" disabled value="D" />
+                        <input class="normal-buttons active-buttons" type="button" value="4" />
+                        <input class="normal-buttons active-buttons" type="button" value="5" />
+                        <input class="normal-buttons active-buttons" type="button" value="6" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="*" />
+                        <input class="normal-buttons" type="button" disabled value="1/x" />
+                    </div>
+                    <div class="buttons">
+                        <input class="normal-buttons other-active-buttons" type="button" value="Lsh" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="Rsh" />
+                        <input class="normal-buttons" type="button" disabled value="E" />
+                        <input class="normal-buttons active-buttons" type="button" value="1" />
+                        <input class="normal-buttons active-buttons" type="button" value="2" />
+                        <input class="normal-buttons active-buttons" type="button" value="3" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="-" />
+
+                    </div>
+                    <div class="buttons">
+                        <input class="normal-buttons other-active-buttons" type="button" value="Not" />
+                        <input class="normal-buttons other-active-buttons" type="button" value="And" />
+                        <input class="normal-buttons" type="button" disabled value="F" />
+                        <input id="double-button-two" type="button" value="0" />
+                        <input class="normal-buttons" type="button" disabled value="." />
+                        <input class="normal-buttons other-active-buttons" type="button" value="+" />
+                        <input id="double-button-one" type="button" value="=" />
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="radio-buttons">
+                    <div>
+                        <input type="radio" name="type" /> Qword
+                    </div>
+                    <div>
+                        <input type="radio" name="type" /> Dword
+                    </div>
+                    <div>
+                        <input type="radio" name="type" /> Word
+                    </div>
+                    <div>
+                        <input type="radio" name="type" /> Byte
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </main>
+    
+</body>
+
+</html>

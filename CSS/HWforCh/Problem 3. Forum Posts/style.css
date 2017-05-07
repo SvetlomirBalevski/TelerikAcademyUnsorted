@@ -1,0 +1,48 @@
+body {
+    background: darkgray;
+    font-size: 18px;
+}
+
+header,
+section+footer {
+    color: #FAFAD2;
+    text-align: center;
+}
+
+li:nth-child(4) {
+    text-decoration: underline;
+}
+
+li a {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section h1 {
+    text-align: left;
+    font-size: 28px;
+}
+
+h1 {
+    color: white;
+    font-size: 43px;
+}
+
+p a {
+    text-decoration: none;
+    color: black;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+a.current {
+    background-color: #D3D3D3;
+}

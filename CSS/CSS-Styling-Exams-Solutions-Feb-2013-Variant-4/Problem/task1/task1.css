@@ -1,0 +1,53 @@
+﻿    body,
+    div {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-repeat: no-repeat;
+        background-image: url('task-images/initial.png');
+        font-size: 16px;
+        font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+    }
+    
+    body #wrapper {
+        width: 960px;
+    }
+    
+    body #wrapper div {
+        border: solid black 1px;
+        margin-top: 25px;
+        margin-left: 25px;
+        padding: 15px 35px;
+        position: relative;
+    }
+    
+    .sample {
+        background-image: url('task-images/initial.png');
+    }
+    
+    body #wrapper div h1 {
+        font-size: 1.8rem;
+    }
+    
+    body #wrapper div p.postedby {
+        position: relative;
+        display: inline-block;
+        margin: 5px 15px;
+        padding: 5px 15px;
+    }
+    
+    body #wrapper div img {
+        border: none;
+        position: absolute;
+        top: 40%;
+    }
+    
+    body #wrapper div img.left-arrow {
+        left: 0;
+    }
+    
+    body #wrapper div img.right-arrow {
+        right: 0;
+    }

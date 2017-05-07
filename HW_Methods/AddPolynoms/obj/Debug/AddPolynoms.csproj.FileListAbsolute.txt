@@ -1,0 +1,2 @@
+D:\Telerik\HW_Methods\AddPolynoms\bin\Debug\AddPolynoms.exe.config
+D:\Telerik\HW_Methods\AddPolynoms\obj\Debug\AddPolynoms.csprojResolveAssemblyReference.cache

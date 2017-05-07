@@ -1,0 +1,6 @@
+D:\Telerik\PreparationC2\Message\bin\Debug\Message.exe.config
+D:\Telerik\PreparationC2\Message\bin\Debug\Message.exe
+D:\Telerik\PreparationC2\Message\bin\Debug\Message.pdb
+D:\Telerik\PreparationC2\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+D:\Telerik\PreparationC2\Message\obj\Debug\Message.exe
+D:\Telerik\PreparationC2\Message\obj\Debug\Message.pdb

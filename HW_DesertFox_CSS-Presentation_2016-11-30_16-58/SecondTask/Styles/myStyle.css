@@ -1,0 +1,38 @@
+body {
+    background-color: #9215F2;
+    color: white;
+}
+
+body header {
+    border-radius: 0;
+    background: -moz-linear-gradient(100% 100% 90deg, #9624F1, #D492FE);
+}
+
+button {
+    background-color: #B35EF3;
+    color: white;
+}
+
+body header nav {
+    border-color: green;
+}
+
+body section {
+    color: white;
+}
+
+body header nav ul li ul li:last-of-type {
+    border-bottom: none;
+}
+
+body footer p {
+    text-align: center;
+}
+
+#tb-username {
+    background-color: #B35EF3;
+}
+
+#tb-password {
+    background-color: #B35EF3;
+}

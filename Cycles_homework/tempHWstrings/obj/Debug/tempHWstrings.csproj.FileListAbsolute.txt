@@ -1,0 +1,6 @@
+D:\Telerik\Cycles_homework\tempHWstrings\bin\Debug\tempHWstrings.exe.config
+D:\Telerik\Cycles_homework\tempHWstrings\bin\Debug\tempHWstrings.exe
+D:\Telerik\Cycles_homework\tempHWstrings\bin\Debug\tempHWstrings.pdb
+D:\Telerik\Cycles_homework\tempHWstrings\obj\Debug\tempHWstrings.csprojResolveAssemblyReference.cache
+D:\Telerik\Cycles_homework\tempHWstrings\obj\Debug\tempHWstrings.exe
+D:\Telerik\Cycles_homework\tempHWstrings\obj\Debug\tempHWstrings.pdb

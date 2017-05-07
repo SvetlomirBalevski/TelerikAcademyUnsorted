@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    line-height: 1.8;
+    text-indent: 10px;
+}
+
+body {
+    background-color: #575757;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+}
+
+h4 {
+    color: #bababa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+i {
+    color: #70b379;
+    text-indent: 0px;
+}
+
+.italic {
+    font-style: italic;
+    color: #ffffff;
+}
+
+.orange {
+    color: #de6926;
+}
+
+.color-beige {
+    color: #ffffd4;
+}
+
+#color-red {
+    color: red;
+}
+
+.color-grey {
+    color: #e3e3e3;
+}
+
+#italic-name,
+#italic-last-action {
+    font-style: italic;
+    color: #ffffff;
+    vertical-align: top;
+}

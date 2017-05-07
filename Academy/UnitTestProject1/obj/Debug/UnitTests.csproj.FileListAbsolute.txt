@@ -1,0 +1,13 @@
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\Academy.exe
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\Academy.pdb
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\DesertFox\Desktop\Academy\UnitTestProject1\bin\Debug\nunit.framework.xml

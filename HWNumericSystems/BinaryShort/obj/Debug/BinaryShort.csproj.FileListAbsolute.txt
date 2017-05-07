@@ -1,0 +1,6 @@
+D:\Telerik\HWNumericSystems\BinaryShort\bin\Debug\BinaryShort.exe.config
+D:\Telerik\HWNumericSystems\BinaryShort\bin\Debug\BinaryShort.exe
+D:\Telerik\HWNumericSystems\BinaryShort\bin\Debug\BinaryShort.pdb
+D:\Telerik\HWNumericSystems\BinaryShort\obj\Debug\BinaryShort.csprojResolveAssemblyReference.cache
+D:\Telerik\HWNumericSystems\BinaryShort\obj\Debug\BinaryShort.exe
+D:\Telerik\HWNumericSystems\BinaryShort\obj\Debug\BinaryShort.pdb

@@ -1,0 +1,13 @@
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\PackageManager.Tests.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\PackageManager.Tests.pdb
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\Castle.Core.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\Moq.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\PackageManager.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\PackageManager.pdb
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\Castle.Core.xml
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\Moq.xml
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\obj\Debug\PackageManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\obj\Debug\PackageManager.Tests.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\ExamFile_DesertFox_Компонентно тестване със C# (януари 2017)_2017-02-16_21-42\PackageManager.Tests\obj\Debug\PackageManager.Tests.pdb

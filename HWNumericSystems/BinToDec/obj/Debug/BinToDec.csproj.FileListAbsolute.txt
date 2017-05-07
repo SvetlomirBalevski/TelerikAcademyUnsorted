@@ -1,0 +1,6 @@
+D:\Telerik\HWNumericSystems\BinToDec\bin\Debug\BinToDec.exe.config
+D:\Telerik\HWNumericSystems\BinToDec\bin\Debug\BinToDec.exe
+D:\Telerik\HWNumericSystems\BinToDec\bin\Debug\BinToDec.pdb
+D:\Telerik\HWNumericSystems\BinToDec\obj\Debug\BinToDec.exe
+D:\Telerik\HWNumericSystems\BinToDec\obj\Debug\BinToDec.pdb
+D:\Telerik\HWNumericSystems\BinToDec\obj\Debug\BinToDec.csprojResolveAssemblyReference.cache

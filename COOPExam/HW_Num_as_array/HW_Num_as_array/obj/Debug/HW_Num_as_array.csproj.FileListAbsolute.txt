@@ -1,0 +1,6 @@
+D:\Telerik\HW_Num_as_array\HW_Num_as_array\bin\Debug\HW_Num_as_array.exe.config
+D:\Telerik\HW_Num_as_array\HW_Num_as_array\bin\Debug\HW_Num_as_array.exe
+D:\Telerik\HW_Num_as_array\HW_Num_as_array\bin\Debug\HW_Num_as_array.pdb
+D:\Telerik\HW_Num_as_array\HW_Num_as_array\obj\Debug\HW_Num_as_array.csprojResolveAssemblyReference.cache
+D:\Telerik\HW_Num_as_array\HW_Num_as_array\obj\Debug\HW_Num_as_array.exe
+D:\Telerik\HW_Num_as_array\HW_Num_as_array\obj\Debug\HW_Num_as_array.pdb

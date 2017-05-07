@@ -1,0 +1,164 @@
+body,
+html,
+div,
+ul,
+li,
+img,
+a,
+span {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: snow;
+}
+
+.test {}
+
+body {
+    width: 820px;
+    height: 965px;
+    position: relative;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: #26292C;
+}
+
+.code-lines {
+    color: white;
+}
+
+.navigation {
+    position: absolute;
+    right: 0;
+    padding-right: 0px;
+    width: 200px;
+    height: 335px;
+}
+
+.containter {
+    margin-left: 10px;
+    position: relative;
+    left: 0;
+}
+
+.selector {
+    color: #78732C;
+}
+
+.punctuation {
+    color: white;
+}
+
+.property {
+    color: #35A8E2;
+}
+
+.value {
+    color: #A27DE8;
+}
+
+.measure {
+    color: #F9204F;
+}
+
+.nav-tabs {
+    list-style: none;
+    float: left;
+}
+
+.nav-tabs a {
+    display: block;
+    padding: 5px;
+    color: #fff;
+    background: #333;
+    text-decoration: none;
+}
+
+.nav-tabs a:hover {
+    color: #fff;
+    background: #6b0c36;
+    text-decoration: underline;
+}
+
+.show-nav {
+    padding-top: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    color: white;
+    background-color: #80807C;
+    text-align: center;
+    width: 190px;
+    height: 40px;
+}
+
+.file-html {
+    background: url('imgs/html-icon.png');
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    background-position-y: 10px;
+    border: 1px solid black;
+    border-radius: 2px;
+    text-align: center;
+    width: 190px;
+    height: 40px;
+    color: white;
+}
+
+.file-css {
+    background: url('imgs/css-icon.png');
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+    padding-top: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    text-align: center;
+    width: 190px;
+    height: 40px;
+    color: white;
+}
+
+.file-sass {
+    background: url('imgs/sass-icon.png');
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+    padding-top: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    text-align: center;
+    width: 190px;
+    height: 40px;
+    color: white;
+}
+
+
+/*--- DROPDOWN ---*/
+
+.nav-tabs ul {
+    position: absolute;
+    left: -9999px;
+    /* Hide off-screen when not needed (this is more accessible than display:none;) */
+}
+
+.nav-tabs ul li {
+    padding-top: 1px;
+    /* Introducing a padding between the li and the a give the illusion spaced items */
+    float: none;
+}
+
+.nav-tabs ul a {
+    white-space: nowrap;
+    /* Stop text wrapping and creating multi-line dropdown items */
+}
+
+.nav-tabs:hover ul {
+    /* Display the dropdown on hover */
+    left: 0;
+    /* Bring back on-screen when needed */
+}

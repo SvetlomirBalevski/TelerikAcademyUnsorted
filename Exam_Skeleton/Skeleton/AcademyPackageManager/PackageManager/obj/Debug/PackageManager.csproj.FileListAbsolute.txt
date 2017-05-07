@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Desktop\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\bin\Debug\PackageManager.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\bin\Debug\PackageManager.pdb
+C:\Users\DesertFox\Desktop\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\obj\Debug\PackageManager.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Desktop\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\obj\Debug\PackageManager.dll
+C:\Users\DesertFox\Desktop\Exam_Skeleton\Skeleton\AcademyPackageManager\PackageManager\obj\Debug\PackageManager.pdb

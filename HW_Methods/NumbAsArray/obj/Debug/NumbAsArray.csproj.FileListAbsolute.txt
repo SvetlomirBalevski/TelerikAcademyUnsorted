@@ -1,0 +1,5 @@
+D:\Telerik\HW_Methods\NumbAsArray\bin\Debug\NumbAsArray.exe.config
+D:\Telerik\HW_Methods\NumbAsArray\bin\Debug\NumbAsArray.exe
+D:\Telerik\HW_Methods\NumbAsArray\bin\Debug\NumbAsArray.pdb
+D:\Telerik\HW_Methods\NumbAsArray\obj\Debug\NumbAsArray.exe
+D:\Telerik\HW_Methods\NumbAsArray\obj\Debug\NumbAsArray.pdb

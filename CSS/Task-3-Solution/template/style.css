@@ -1,0 +1,14 @@
+body, head,div,h1,li,ul{
+  padding: 0;
+}
+
+body {
+
+  background-image: url('initial.png');
+  font-size: 18px;  
+  font-family: Arial
+}
+
+#root {
+  width: 610px
+}

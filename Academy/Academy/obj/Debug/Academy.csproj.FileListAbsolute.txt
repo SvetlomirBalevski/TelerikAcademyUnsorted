@@ -1,0 +1,22 @@
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.pdb
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\DesertFox\Desktop\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\DesertFox\Desktop\Academy\Academy\obj\Debug\Academy.pdb
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\DesertFox\Desktop\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Telerik.JustMock.dll
+C:\Users\DesertFox\Desktop\Academy\Academy\bin\Debug\Telerik.JustMock.xml

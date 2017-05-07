@@ -1,0 +1,124 @@
+                                       body,
+                                       html,
+                                       div,
+                                       ul,
+                                       li,
+                                       img,
+                                       a,
+                                       span {
+                                           margin: 0;
+                                           padding: 0;
+                                       }
+                                       
+                                       body {
+                                           border: 1px solid black;
+                                           width: 590;
+                                           height: 650px;
+                                           background-color: #eeeeee;
+                                       }
+                                       
+                                       body #wrapper {
+                                           margin-top: 20px;
+                                           width: 560px;
+                                           height: 580px;
+                                           font-size: 16px;
+                                           font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+                                           background-color: #ffffff;
+                                       }
+                                       
+                                       body #wrapper {
+                                           padding: 15px 2px;
+                                           border: 1px solid black;
+                                           margin-left: 10px;
+                                       }
+                                       
+                                       .header>div :first-of-type {
+                                           display: block;
+                                       }
+                                       
+                                       .header>div>img {
+                                           padding-left: 20px;
+                                       }
+                                       
+                                       .publisher {
+                                           margin-right: 60px;
+                                           padding-left: 60px;
+                                           padding-bottom: 20px;
+                                       }
+                                       
+                                       .importance {
+                                           font-weight: bold;
+                                           text-transform: uppercase;
+                                           padding-left: 10px;
+                                           padding-bottom: 30px;
+                                           width: 100px;
+                                       }
+                                       
+                                       .timestamp {
+                                           display: block;
+                                           text-align: right;
+                                           float: right;
+                                           padding-top: 0px;
+                                       }
+                                       
+                                       .title {
+                                           display: inline-block;
+                                           margin-left: 10px;
+                                           margin-right: 10px;
+                                           text-align: left;
+                                           font-size: 1.5em;
+                                           border-top: 1px solid #5F5F5F;
+                                           height: 50px;
+                                           padding: 20px 15px;
+                                           padding-right: 100px;
+                                           color: #5F5F5F;
+                                       }
+                                       
+                                       .main-image {
+                                           display: block;
+                                           width: 570px;
+                                           padding-bottom: 20px;
+                                       }
+                                       
+                                       .footer {
+                                           display: flex;
+                                           flex-direction: row;
+                                           flex-wrap: wrap;
+                                           padding-top: 10 px;
+                                           height: 50px;
+                                       }
+                                       
+                                       .likes {
+                                           display: block;
+                                           align-self: flex-start;
+                                           padding: 2px;
+                                           background: url('imgs/number.png');
+                                           background-repeat: no-repeat;
+                                           width: 100px;
+                                           height: 50px;
+                                           padding-right: 200px;
+                                           padding-left: 60px;
+                                           padding-top: 15px;
+                                       }
+                                       
+                                       .shares {
+                                           display: block;
+                                           align-self: center;
+                                           background: url('imgs/share.png');
+                                           background-repeat: no-repeat;
+                                           width: 50px;
+                                           height: 50px;
+                                           padding-left: 50px;
+                                           padding-top: 15px;
+                                       }
+                                       
+                                       .comments {
+                                           display: block;
+                                           align-self: center;
+                                           background: url('imgs/comment.png');
+                                           background-repeat: no-repeat;
+                                           width: 50px;
+                                           height: 50px;
+                                           padding-left: 50px;
+                                           padding-top: 15px;
+                                       }

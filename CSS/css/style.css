@@ -1,0 +1,26 @@
+html {
+    font-size: 30px;
+}
+
+.main {
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 200px;
+}
+
+.inner {
+    width: 100px;
+    border: 1px solid black;
+}
+
+.ord1 {}
+
+.ord2 {}
+
+.ord3 {
+    flex-shrink: 2;
+    align-self: flex-end;
+}
